@@ -107,7 +107,7 @@ girl.play()
 var ogla1 : Ogla = GirlOgla()
 var ogla2 : Ogla = SmallOgla()
 
-
+/*
     Create a class Person that can be either user or admin.
  In Person:
  private attr:
@@ -125,6 +125,7 @@ var ogla2 : Ogla = SmallOgla()
     overload post
  In Admin (functions):
     edit Users
+*/
 
 protocol Image {
     func setImage (path : String?)
