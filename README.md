@@ -5,7 +5,7 @@ Full project will be uploaded soon.
 
 Make a project 
 
-'''swift
+```swift
   
 
 class Ogla{
@@ -184,4 +184,4 @@ circleImage.setImage(path: "D:/car.jpg")
 circleImage.displayImage()
 
 
-'''
+```
